@@ -1,0 +1,70 @@
+CSV text has been written to file : TIDA00792E2_AFE.csv
+
+Library Component Count : 63
+
+Name                Description
+----------------------------------------------------------------------------------------------------
+
+103AT-2             Thermistor NTC, 10.0k ohm, 1%, Disc, 5x8.4 mm
+1N4148W-7-F         Diode, Ultrafast, 100V, 0.15A, SOD-123
+22-05-3041          Header (friction lock), 100mil, 4x1, R/A, TH
+395021005           Header (shrouded), 3.5mm, 5x1, R/A, TH
+395021011           Terminal block, 3.5mm, 11x1, R/A, TH
+4-1437565-1         Switch, Tactile, SPST-NO, 0.05A, 12V, SMT
+5011                Test Point, Multipurpose, Black, TH
+885012206048        CAP, CERM, 0.22 µF, 16 V, +/- 10%, X7R, 0603
+885012206052        CAP, CERM, 1 µF, 16 V, +/- 10%, X7R, 0603
+885012206081        CAP, CERM, 470 pF, 50 V, +/- 10%, X7R, 0603
+885012206087        CAP, CERM, 4700 pF, 50 V, +/- 10%, X7R, 0603
+885012207025        CAP, CERM, 4.7 µF, 10 V, +/- 10%, X7R, 0805
+BQ7694000DBTR       Battery Monitor for Lithium-Ion and Phosphate Battery Packs, DBT0044A
+BQ78350DBTR-R1      CEDV Li-Ion Gas Gauge and Battery Management Controller Companion to the bq769x0 Battery Monitoring AFE, DBT0030A
+BSS123              MOSFET, N-CH, 100V, 0.17A, SOT-23
+BST82,215           MOSFET, N-CH, 100 V, 0.19 A, SOT-23
+C1608X7R1H104K080AA CAP, CERM, 0.1 µF, 50 V, +/- 10%, X7R, 0603
+C1608X7R1H104K080AA_1CAP, CERM, 0.1 µF, 50 V, +/- 10%, X7R, 0603
+CL10B105KA8NNNC     CAP CER 1UF 25V 10% X7R 0603
+CRCW06030000Z0EA    RES, 0, 5%, 0.1 W, 0603
+CRCW06030000Z0EA_1  RES, 0, 5%, 0.1 W, 0603
+CRCW0603100KJNEA    RES, 100 k, 5%, 0.1 W, 0603
+CRCW0603100RJNEA    RES, 100, 5%, 0.1 W, 0603
+CRCW060310K0JNEA    RES, 10 k, 5%, 0.1 W, 0603
+CRCW060310M0FKEA    RES, 10.0 M, 1%, 0.1 W, 0603
+CRCW0603113KFKEA    RES, 113 k, 1%, 0.1 W, 0603
+CRCW06031K00JNEA    RES, 1.0 k, 5%, 0.1 W, 0603
+CRCW06031K00JNEA_1  RES, 1.0 k, 5%, 0.1 W, 0603
+CRCW06031M00JNEA    RES, 1.0 M, 5%, 0.1 W, 0603
+CRCW06031M00JNEA_1  RES, 1.0 M, 5%, 0.1 W, 0603
+CRCW0603220KJNEA    RES, 220 k, 5%, 0.1 W, 0603
+CRCW0603499KFKEA    RES, 499 k, 1%, 0.1 W, 0603
+CRCW0603510KJNEA    RES, 510 k, 5%, 0.1 W, 0603
+CRCW060351K0JNEA    RES, 51 k, 5%, 0.1 W, 0603
+CRCW0805100KFKEA    RES, 100k ohm, 1%, 0.125W, 0805
+CRCW0805100RFKEA    RES, 100 ohm, 1%, 0.125W, 0805
+CRCW20101K00JNEF    RES, 1.0 k, 5%, 0.75 W, AEC-Q200 Grade 0, 2010
+CRCW201028R7FKEF    RES, 28.7, 1%, 0.75 W, 2010
+CRCW2010750RJNEF    RES, 750, 5%, 0.75 W, 2010
+CSD13381F4          MOSFET, N/P-CH, 12 V, 2.1 A, 1.0x0.35x0.6mm
+ERJ-P06J102V        RES SMD 1K OHM 5% 1/2W 0805
+ERJ-P06J390V        39 Ohms ±5% 0.5W, 1/2W Chip Resistor 0805 (2012 Metric) Automotive AEC-Q200, Pulse Withstanding Thick Film
+GRM188R71E332KA01D  CAP, CERM, 3300pF, 25V, +/-10%, X7R, 0603
+GRM21BR71H105KA12L  CAP, CERM, 1 µF, 50 V, +/- 10%, X7R, 0805
+GRM32ER7YA106KA12L  CAP, CERM, 10 µF, 35 V, +/- 10%, X7R, 1210
+IRF7759L2           N-Channel 75V 26A (Ta), 375A (Tc) 3.3W (Ta), 125W (Tc) Surface Mount DIRECTFET L8
+LTST-C190GKT        LED, Green, SMD
+MM3Z5V6C            Diode, Zener, 5.6V, 200mW, SOD-323FL
+MMSZ5228BS-7-F      Diode, Zener, 3.9 V, 200 mW, SOD-323
+MMSZ5232BS-7-F      Diode, Zener, 5.6V, 200mW, SOD-323
+MMSZ5248BS-7-F      Diode, Zener, 18 V, 200 mW, SOD-323
+MMSZ5248BS-7-F_1    Diode, Zener, 18 V, 200 mW, SOD-323
+Net-Tie             Single point connection between nets.
+PEC02SAAN           Header, 100mil, 2x1, Tin, TH
+RG1608P-103-B-T5    RES, 10.0 k, 0.1%, 0.1 W, 0603
+RG1608P-304-B-T5    RES, 300k ohm, 0.1%, 0.1W, 0603
+TESTPOINT           TEST POINT.  No entry in BOM.
+TESTPOINT_1         TEST POINT.  No entry in BOM.
+TPD1E10B06DPYT      ESD Protection in 0402 Package with 10 pF Capacitance and 6 V Breakdown, 1 Channel, -40 to +125 degC, 2-pin X2SON (DPY)
+WSLP5931L5000FEB    RES SMD 500 UOHM 1% 10W 5931
+ZXMP10A13FTA        MOSFET, P-CH, -100V, -0.6A, SOT-23
+ZXMP10A13FTA_1      MOSFET, P-CH, -100V, -0.6A, SOT-23
+ZXTN19100CZTA, Diodes Inc.Transistor, NPN, 100 V, 5.25 A, SOT-89

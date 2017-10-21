@@ -7,16 +7,16 @@ With the introduction of [Benjamin Vedder's open source ESC](https://github.com/
 
 **Features**
 
-1. Variable compatibility for 9-12s Li-ion/Lipo or 9-14s LiFePo4    
-1. 120 A max continuous current
-1. Adjustable over/under voltage detection
-1. Adjustable over current and short circuit detection
-1. Adjustable over temperature detection via 3 thermistors
-1. Coulomb counter
-1. Lifetime data-logging
-1. Compensated End-of-Discharge Voltage Gauging Algorithm
-1. Passive battery cell balancing up to 100 mA per cell
-1. 5-segment LED gauge or LCD
-1. Supports up to 320 Ahr
-1. Built in E-switch (requires a NO momentary switch)
+* Variable compatibility for 9-12s Li-ion/Lipo or 9-14s LiFePo4    
+* 120 A max continuous current
+* Adjustable over/under voltage detection
+* Adjustable over current and short circuit detection
+* Adjustable over temperature detection via 3 thermistors
+* Coulomb counter
+* Lifetime data-logging
+* Compensated End-of-Discharge Voltage Gauging Algorithm
+* Passive battery cell balancing up to 100 mA per cell
+* 5-segment LED gauge or LCD
+* Supports up to 320 Ahr
+* Built in E-switch (requires a NO momentary switch)
 

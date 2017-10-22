@@ -12,6 +12,7 @@ With the introduction of [Benjamin Vedder's open source ESC](https://github.com/
 * Adjustable over/under voltage detection
 * Adjustable over current and short circuit detection
 * Adjustable over temperature detection via 3 thermistors
+* Adjustable end-of-charge Voltage
 * Coulomb counter
 * Lifetime data-logging
 * Compensated End-of-Discharge Voltage Gauging Algorithm

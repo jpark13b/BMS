@@ -19,4 +19,5 @@ With the introduction of [Benjamin Vedder's open source ESC](https://github.com/
 * 5-segment LED gauge or LCD
 * Supports up to 320 Ahr
 * Built in E-switch (requires a NO momentary switch)
+* Safe pre-charge for deeply discharged battery pack
 

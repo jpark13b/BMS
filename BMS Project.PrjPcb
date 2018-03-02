@@ -207,6 +207,14 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=QJNEXCIV
 
+[GeneratedDocument1]
+DocumentPath=TIDA00792E2_AFE.csv
+DItemRevisionGUID=
+
+[GeneratedDocument2]
+DocumentPath=TIDA00792E2_AFE.rep
+DItemRevisionGUID=
+
 [Configuration1]
 Name=Sources
 ParameterCount=0
